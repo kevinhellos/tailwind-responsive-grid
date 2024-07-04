@@ -2,4 +2,4 @@
 Demo responsive grids using Tailwind CSS
 
 ## Live demo
-[tailwind-responsive-grid](https://tailwind-responsive-grids.vercel.app)
+[tailwind-responsive-grid](https://tailwind-responsive-grid.vercel.app)
